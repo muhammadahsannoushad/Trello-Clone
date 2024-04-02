@@ -1,0 +1,33 @@
+.app-header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(176, 97, 187);
+}
+
+.app-main{
+    margin-top: 1em;
+    padding: 1em;
+    background-color: rgb(206, 156, 253);
+    display: flex;
+    gap: 1em;
+    overflow: auto;
+}
+.app-main .column{
+     background-color: rgb(255, 255, 110);  
+     width: 18em; 
+     min-height: 5em;
+     border-radius: 10px;
+     padding: 0.5em;
+}
+.app-main .column .column-heading{
+    font-size: 1.5em;
+    padding: 2px;
+}
+.app-main .column .ticket{
+    background-color: azure;
+    padding: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border-radius:10px ;
+    
+}
