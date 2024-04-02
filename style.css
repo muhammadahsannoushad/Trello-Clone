@@ -24,10 +24,9 @@
     padding: 2px;
 }
 .app-main .column .ticket{
-    background-color: azure;
+    background-color: rgb(200, 238, 238);
     padding: 1em;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     border-radius:10px ;
-    
 }
